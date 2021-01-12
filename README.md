@@ -16,7 +16,7 @@
 
 ### About me ✨
 
-- I am a **frontend developer** 👨🏻‍💻
+- I am a **fullstack developer** 👨🏻‍💻
 - I strive to create truly **unique** and **incredible** products 💡
 
 ---
