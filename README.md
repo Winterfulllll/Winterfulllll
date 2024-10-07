@@ -1,30 +1,22 @@
 <h2 align="center">☃️🌍 Hello, world! 🌍☃️</h2>
 
 <div align="center">
-  <a href="https://github.com/Winterfulllll">
-    <img alt="My logo" width="100px" src="./img/winterful_logo_snowflake.png" />
-  </a>
+  <a href="https://github.com/Winterfulllll"><img alt="My logo" width="100px" src="./img/winterful_logo_snowflake.png" /></a>
 </div>
 
 <br />
 
 <div id="badges" align="center">
-  <a href="https://vk.com/winterfuldead">
-    <img alt="VK Page" width="30px" src="./img/vk.png" />
-  </a>
+  <a href="https://vk.com/winterfuldead"><img alt="VK Page" width="30px" src="./img/vk.png" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/winterful">
-    <img alt="Telegram" width="30px" src="./img/tg.png" />
-  </a>
+  <a href="https://t.me/winterful"><img alt="Telegram" width="30px" src="./img/tg.png" /></a>
 </div>
 
 ---
 
 ## I am **Winterful**! ❄️ Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" alt="My stats" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterfulllll&layout=compact" />
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="My stats" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterfulllll&layout=compact" /></a>
 
 ### About me ✨
 
