@@ -20,11 +20,9 @@
 
 ### About me ✨
 
-- I am a beginner **full-stack developer** 👨🏻‍💻
-- I am **19** years old 🎂
-- I have been interested in **design** _since I was 13_ 🎨
-- I also love making [**my own music!**](https://band.link/winterful) 🎧
-- I am a **second year student** at the **Moscow Aviation Institute** in the field of _applied mathematics and computer science_ 🎓
+- I am a **full stack developer** 👨🏻‍💻
+- I am **20** years old 🎂
+- I am a **third year student** at the **Moscow Aviation Institute** in the field of _applied mathematics and computer science_ 🎓
 - I strive to create truly **unique** and **incredible** products 💡
 
 ---
