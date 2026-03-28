@@ -16,8 +16,6 @@
 
 ## I am **Winterful**! ❄️ Welcome to my profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="My stats" width="330px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterfulllll&layout=compact" /></a>
-
 ### About me ✨
 
 - I am a **full stack developer** 👨🏻‍💻
