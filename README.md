@@ -7,9 +7,7 @@
 <br />
 
 <div id="badges" align="center">
-  <a href="https://vk.com/winterfuldead"><img alt="VK Page" width="30px" src="./img/vk.png" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/winterful"><img alt="Telegram" width="30px" src="./img/tg.png" /></a>
+  <a href="https://t.me/frontend3r"><img alt="Telegram" width="30px" src="./img/tg.png" /></a>
 </div>
 
 ---
@@ -18,9 +16,7 @@
 
 ### About me ✨
 
-- I am a **full stack developer** 👨🏻‍💻
-- I am **20** years old 🎂
-- I am a **third year student** at the **Moscow Aviation Institute** in the field of _applied mathematics and computer science_ 🎓
+- I am a **frontend developer** 👨🏻‍💻
 - I strive to create truly **unique** and **incredible** products 💡
 
 ---
