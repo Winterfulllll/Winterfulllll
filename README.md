@@ -16,6 +16,7 @@
 
 ### About me ✨
 
+- My name is **Vladimir** 👋
 - I am a **fullstack developer** 👨🏻‍💻
 - I strive to create truly **unique** and **incredible** products 💡
 
